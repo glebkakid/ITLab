@@ -1,0 +1,10 @@
+Egor m 7 9.3 Mark - 5 
+Igor m 6 10.8 Mark - 3 
+Alina f 7 10.4 Mark - 4 
+Valentina f 6 10.2 Mark - 5 
+Nikita m 6 9.8 Mark - 5 
+Michael m 6 10.3 Mark - 4 
+Anna f 6 11.9 Mark - 2 
+Valeria f 7 11.2 Mark - 3 
+Lesha m 6 9.5 Mark - 5 
+Justin m 6 10.9 Mark - 3 
